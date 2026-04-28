@@ -7,12 +7,13 @@
 
 
 ## 🛠 Tech Stack
-
-<h2 align="LEFT">🛠 Tech Stack</h2>
 <p>
 Frontend: React, TypeScript
+
 Backend: Express.js
+
 Database: MySQL
+
 Infra: Docker
 </p>
 
@@ -31,8 +32,6 @@ Infra: Docker
 아래 페이지에서 프로젝트 관련 문서들을 확인하실 수 있습니다.
 
 1차 프로젝트 👉 [View Team Project Documentation](https://www.notion.so/279c0511827d80db86f4cc54e46c0245)
-
-br
 
 2차 프로젝트 👉 [View Team Project Documentation](https://www.notion.so/2-2ca186ffd76d806097a9d2f83403aeb5)
 
