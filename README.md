@@ -27,13 +27,18 @@ Infra: Docker
 
 ---
 
-## 🚀 Team Project
+## 🚀 Featured Project
 신입 개발자가 되기 위해 1차, 2차 팀 프로젝트에 참여했습니다.  
 아래 페이지에서 프로젝트 관련 문서들을 확인하실 수 있습니다.
 
-1차 프로젝트 👉 [View Team Project Documentation](https://www.notion.so/279c0511827d80db86f4cc54e46c0245)
+1차 프로젝트 👉 [View Featured Project Documentation](https://www.notion.so/279c0511827d80db86f4cc54e46c0245)
 
-2차 프로젝트 👉 [View Team Project Documentation](https://www.notion.so/2-2ca186ffd76d806097a9d2f83403aeb5)
+2차 프로젝트 👉 [View Featured Project Documentation](https://www.notion.so/2-2ca186ffd76d806097a9d2f83403aeb5)
+
+Meerkatgram - SNS 서비스 (Personal / Full Stack)
+역할: 기획, API설계, DB설계, 프론트엔드 구현
+기술: Express, MySQL, React
+👉 [View Featured Project Documentation] https://github.com/jeongyeonjae0/pwa2-meerkatgram 
 
 ---
 
